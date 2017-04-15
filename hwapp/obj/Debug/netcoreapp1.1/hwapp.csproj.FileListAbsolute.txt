@@ -1,0 +1,8 @@
+/Users/macbcc161/Desktop/demo/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/Users/macbcc161/Desktop/demo/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/Users/macbcc161/Desktop/demo/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/Users/macbcc161/Desktop/demo/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/Users/macbcc161/Desktop/demo/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/Users/macbcc161/Desktop/demo/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/Users/macbcc161/Desktop/demo/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/Users/macbcc161/Desktop/demo/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb
